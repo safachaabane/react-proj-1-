@@ -24,8 +24,8 @@ Profile.propTypes = {
   show: PropTypes.func,
 };
 Profile.defaultProps = {
-    name:"5ou med amine",
-    bio:"omorek",
+    name:"safsoufa ",
+    bio:"nothing",
     profession:"web developper"
 }
 
